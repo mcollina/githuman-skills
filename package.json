@@ -1,0 +1,19 @@
+{
+	"name": "@mcollina/githuman-skills",
+	"version": "0.1.0",
+	"description": "Claude Code skills for GitHuman - code review for AI-generated changes",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mcollina/githuman-skills"
+	},
+	"keywords": [
+		"claude-code",
+		"skills",
+		"githuman",
+		"code-review",
+		"ai-workflow"
+	],
+	"author": "Matteo Collina",
+	"license": "MIT",
+	"private": true
+}
