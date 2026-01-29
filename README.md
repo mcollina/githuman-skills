@@ -2,20 +2,9 @@
 
 Claude Code skills for [GitHuman](https://github.com/mcollina/githuman) - review AI-generated code changes before committing.
 
-## Installation
+## Usage
 
-Add this skill to your Claude Code configuration:
-
-```bash
-# In your project directory
-claude mcp add-skill mcollina/githuman-skills/skills/githuman
-```
-
-Or add it globally:
-
-```bash
-claude mcp add-skill --global mcollina/githuman-skills/skills/githuman
-```
+This repository provides skills that can be used with Claude Code. See the [GitHuman documentation](https://github.com/mcollina/githuman) for usage instructions.
 
 ## What's Included
 
